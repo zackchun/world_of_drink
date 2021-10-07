@@ -1,0 +1,38 @@
+div {
+    border: 1px solid #ccc;
+}
+#container {
+    width: 850px;
+    padding:20px;
+    margin:0 auto;
+}
+#header {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+#map {
+    width: 850px;
+    padding: auto;
+    margin-bottom: 20px;
+}
+#list {
+    width: 120px;
+    float: left;
+    margin-bottom: 20px;
+}
+#photo {
+    width: 550px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#memo {
+    width: 120px;
+    float: right;
+    margin-bottom: 20px;
+}
+#footer {
+    clear:both;
+    padding: auto;
+}
